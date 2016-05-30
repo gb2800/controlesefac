@@ -1,0 +1,382 @@
+.body
+{
+	width:1150px;
+	height:680px;
+	background-color:none;
+	position:center;
+	margin: auto;
+	font-family:arial;
+	background-image: url(img/back.jpg);
+}
+
+.body1
+{
+	width:1150px;
+	height:680px;
+	background-color:none;
+	position:center;
+	margin: auto;
+	font-family:arial;
+	background-image: url(img/console.png);
+}
+
+
+.capa
+{
+	width:1150px;
+	height:80px;
+	background-color:none;
+	position:center;
+	margin: auto;
+	font-family:verdana;
+	text-align: center;
+	line-height: 1.8;
+	color: black;
+	font-size:45px;
+}
+
+.consoleindex
+{
+	width:800px;
+	height:400px;
+	background-color:none;
+	position:relative;
+	top:65px;
+	left:175px;
+	background-image: url(img/console.jpg);
+	text-align: center;
+	font-family:verdana;
+	color:#000099;
+	
+	
+}
+
+.console
+{
+	width:800px;
+	height:400px;
+	background-color:none;
+	position:relative;
+	top:65px;
+	left:175px;
+	background-image: url(img/console.png);
+	text-align: center;
+	font-family:verdana;
+	color:#000099;
+	
+	
+}
+.menu
+{
+	width:800px;
+	height:39px;
+	background-color:none;
+	position:relative;
+	text-align: center;
+	top:180px;
+	
+}
+.menu a:link, a:visited {
+    background-color: #f80101;
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+	size:4px;
+}
+
+.menu a:hover, a:active {
+    background-color: #d60202;
+}
+
+.consolecad
+{
+	width:1150px;
+	height:800px;
+	background-color:none;
+	position:relative;
+	background-image:;
+	text-align: center;
+	font-family:verdana;
+	color:#000099;
+	font-size:12px;
+}
+
+.formcad
+{
+	width:700px;
+	height:215px;
+	left:65px;
+	top:5px;
+	position: relative;
+	background-color:none;
+	text-align:left;
+	color:#000000;
+}
+
+.cadarea
+{
+	width:300px;
+	height:415;
+	left:765px;
+	top:-210px;
+	position: relative;
+	background-color:none;
+	text-align:left;
+	color:#000000;
+	text-align:left;
+}
+
+.certificacao
+{
+	width:335px;
+	height:215px;
+	top:-410px;
+	left:65px;
+	position: relative;
+	background-color:none;
+	text-align:left;
+	color:#000000;
+	text-align:left;
+}
+.levantamentocamp
+{
+	width:365px;
+	height:200px;
+	top:-625px;
+	left:400px;
+	position: relative;
+	background-color:none;
+	text-align:left;
+	color:#000000;
+	text-align:left;
+}
+.gerplanta
+{
+	width:640px;
+	height:175px;
+	top:-625px;
+	left:65px;
+	position: relative;
+	background-color:none;
+	text-align:left;
+	color:#000000;
+	text-align:left;
+}
+.gerods
+{
+	width:360px;
+	height:175px;
+	top: -800px;
+	left:715px;
+	position: relative;
+	background-color:none;
+	text-align:left;
+	color:#000000;
+	text-align:left;
+}
+.botoes
+{
+	width:200px;
+	height:25px;
+	left:500px;
+	top:-880px;
+	position: relative;
+
+	
+}
+
+
+
+.consolebus
+{
+	width:1130px;
+	height:400px;
+	background-color:none;
+	position:relative;
+	top:65px;
+	background-image: url(img/console.png);
+	text-align: center;
+	font-family:verdana;
+	color:#000099;
+	padding-left:20px;
+	overflow: scroll;	
+}
+
+.consoledelete
+{
+	width:1130px;
+	height:400px;
+	background-color:none;
+	position:relative;
+	top:65px;
+	background-image: url(img/console.png);
+	text-align: center;
+	font-family:verdana;
+	color:#000099;
+	padding-left:20px;
+}
+
+
+
+.menu1
+{
+	width:1150px;
+	height:39px;
+	background-color:none;
+	position:relative;
+	text-align: center;
+	top:-825px;
+	
+	
+}
+.menu1 a:link, a:visited {
+    background-color: #f80101;
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+	z-index:1;
+}
+
+.menu1 a:hover, a:active {
+    background-color: #d60202;
+}
+
+.menu2
+{
+	width:1200px;
+	height:39px;
+	background-color:none;
+	position:relative;
+	text-align: center;
+	top:90px;
+	
+}
+
+.menu2 a:link, a:visited {
+    background-color: #f80101;
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu2 a:hover, a:active {
+    background-color: #d60202;
+}
+
+
+.menu3
+{
+	width:1200px;
+	height:39px;
+	background-color:none;
+	position:absolute;
+	text-align: center;
+	top:498px;
+	
+}
+
+.menu3 a:link, a:visited {
+    background-color: #f80101;
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu3 a:hover, a:active {
+    background-color: #d60202;
+}
+
+
+.bmenu
+{
+	width:800px;
+	height:39px;
+	background-color:red;
+	position:relative;
+	text-align: center;
+	top:150px;
+	line-height: 2.3;
+	color:white;	
+}
+
+.buscam
+{
+	width:800px;
+	height:39px;
+	background-color:none;
+	position:absolute;
+	text-align: center;
+	top:350px;
+	
+}
+
+.buscam a:link, a:visited {
+    background-color: #f80101;
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+.buscam a:hover, a:active {
+    background-color: #d60202;
+}
+
+.busca
+{
+	width:300px;
+	height:35px;
+	background-color:none;
+	position:relative;
+	text-align: center;
+	top:-865px;
+	line-height: 2.3;
+	color:black;
+	left:66px;
+}
+
+.menu4
+{
+	width:450px;
+	height:39px;
+	background-color:none;
+	position:relative;
+	text-align: center;
+	top:-825px;
+	left:635px;
+	
+}
+.menu4 a:link, a:visited {
+    background-color: #f80101;
+    color: white;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+	z-index:1;
+}
+
+.menu4 a:hover, a:active {
+    background-color: #d60202;
+}
+
+.rodape
+{
+	width:1150px;
+	height:20px;
+	background-color:none;
+	position:absolute;
+	left:75px;
+	text-align:center;
+	font-size:13;
+	
+}
